@@ -5,6 +5,8 @@ layout: default
 
 ### About
 
+Testing preview…
+
 👋 Hi, I'm Larry Fox, a freelance software developer.
 
 I work mostly with Ruby, occasionally write Go or JS for fun, and use other popular technologies like AWS, PostgreSQL, Redis, and MongoDB. My spare time is spent making sounds with synthesizers. 🎶
