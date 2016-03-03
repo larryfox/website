@@ -1,0 +1,99 @@
+---
+title: chmod calculator
+date: 2013-11-13 00:00:00 Z
+---
+
+<style type="text/css">
+  #chmod {
+    font-family: Consolas, monospace;
+    font-size: 14px;
+    margin: auto;
+  }
+  #chmod label {
+    cursor: pointer;
+  }
+  #chmod th {
+    font-weight: 400;
+  }
+  #chmod td {
+    border-top: 1px solid #dbdbd9;
+  }
+  #chmod td, #chmod th {
+    border-left: 1px solid #dbdbd9;
+    padding: 5px 7px 3px;
+  }
+  #chmod td:first-child, #chmod th:first-child {
+    border-left: 0;
+  }
+</style>
+<table id="chmod" cellpadding="5" border="0">
+  <thead>
+    <th>Permissions</th>
+    <th>Owner</th>
+    <th>Group</th>
+    <th>Other</th>
+  </thead>
+  <tr>
+    <td>Read</td>
+    <td><label><input type="checkbox" value="400">400</label></td>
+    <td><label><input type="checkbox" value="40">040</label></td>
+    <td><label><input type="checkbox" value="4">004</label></td>
+  </tr>
+  <tr>
+    <td>Write</td>
+    <td><label><input type="checkbox" value="200">200</label></td>
+    <td><label><input type="checkbox" value="20">020</label></td>
+    <td><label><input type="checkbox" value="2">002</label></td>
+  </tr>
+  <tr>
+    <td>Execute</td>
+    <td><label><input type="checkbox" value="100">100</label></td>
+    <td><label><input type="checkbox" value="10">010</label></td>
+    <td><label><input type="checkbox" value="1">001</label></td>
+  </tr>
+  <tr align="center">
+    <td colspan="4">
+      $ chmod <strong class="chmod-total">000</strong> filename.txt<br>
+      (-<span class='chmod-string'>---------</span>)
+    </td>
+  </tr>
+</table>
+<script>
+  var checkboxes = document.querySelectorAll('#chmod input[type=checkbox]')
+  var totalEl = document.querySelector('.chmod-total')
+
+  function calculate() {
+    var checks = document.querySelectorAll('#chmod input:checked')
+    var total = Array.prototype.map.call(checks, function (el) {
+      return parseInt(el.value)
+    }).reduce(function (a, b) {
+      return a + b
+    }, 0)
+    totalEl.innerHTML = leftPad(total, 3)
+    calculateString(totalEl.innerHTML)
+  }
+
+  function calculateString (total) {
+    var totalEl = document.querySelector('.chmod-string')
+    var digits = total.toString().split('')
+    totalEl.innerHTML = digits.map(function (x) {
+      if (x === '0') return '---'
+      if (x === '1') return '--x'
+      if (x === '2') return '-w-'
+      if (x === '3') return '-wx'
+      if (x === '4') return 'r--'
+      if (x === '5') return 'r-x'
+      if (x === '6') return 'rw-'
+      if (x === '7') return 'rwx'
+    }).join('')
+  }
+
+  function leftPad (value, padding) {
+    while (('' + value).length < padding) { value = '0' + value }
+    return value
+  }
+
+  Array.prototype.forEach.call(checkboxes, function (el) {
+    el.addEventListener('click', calculate)
+  })
+</script>
