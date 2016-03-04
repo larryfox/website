@@ -1,7 +1,6 @@
 ---
 title: Larry Fox
 url: http://2016.larryfox.us
-domain: https://larryfox.us
 timezone: America/New_York
 collections:
   posts:
@@ -17,3 +16,4 @@ defaults:
   values:
     layout: post
     permalink: "/writing/:title/"
+domain: https://larryfox.us
