@@ -3,7 +3,7 @@ title: "\U0001F3E0"
 layout: default
 ---
 
-### About
+## About
 
 👋 Hi, I'm Larry Fox, a freelance software developer.
 
@@ -11,12 +11,12 @@ I work mostly with Ruby, occasionally write Go or JS for fun, and use other popu
 
 I'm currently <span data-availability-badge></span>.
 
-### Work
+## Work
 
 - [Siteleaf](http://siteleaf.com) 🍃 Friendly Jekyll site management (_lead backend dev_)
 - [Cushion](http://cushionapp.com) 🛋 Peace of mind for freelancers (_currently contracting_)
 
-### Previously
+## Previously
 
 - [Symbolset](http://symbolset.com) Accessible icon fonts for the web (_lead backend dev_)
 - [CreativeMornings](http://creativemornings.com) Breakfast lecture series (_backend dev_)
@@ -24,7 +24,7 @@ I'm currently <span data-availability-badge></span>.
 - [Gazette](http://gazette.io) eBooks for the slow web (_sunsetted_)
 - [Outlier](http://outlier.cc) The future of clothing (_wayback_)
 
-### Contact
+## Contact
 
 - [Email](mailto:l@rryfox.us)
 - [Github](https://github.com/larryfox)
