@@ -17,4 +17,3 @@ defaults:
     layout: post
     permalink: "/writing/:title/"
 domain: https://larryfox.us
-permalink: pretty
