@@ -1,6 +1,6 @@
 ---
 title: sort and sort_by
-date: 2014-06-30 00:00:00 Z
+date: 2014-06-29 20:00:00 -04:00
 ---
 
 A quick brief of Ruby’s sorting algorithm.
