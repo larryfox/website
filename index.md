@@ -24,6 +24,7 @@ I'm currently <span data-availability-badge></span>.
 - [Gazette](http://gazette.io) eBooks for the slow web (_sunsetted_)
 - [Outlier](http://outlier.cc) The future of clothing (_wayback_)
 
+
 ## Contact
 
 - [Email](mailto:l@rryfox.us)
