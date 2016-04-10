@@ -14,7 +14,7 @@ I'm currently <span data-availability-badge></span>.
 ## Work
 
 - [Siteleaf](http://siteleaf.com) 🍃 Friendly Jekyll site management (_lead backend dev_)
-- [Cushion](http://cushionapp.com) 🛋 Peace of mind for freelancers (_currently contracting_)
+- [Cushion](http://cushionapp.com) 🛋 Peace of mind for freelancers (_backend dev_)
 
 ## Previously
 
