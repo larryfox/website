@@ -9,8 +9,6 @@ layout: default
 
 I work mostly with Ruby, occasionally write Go or JS for fun, and use other popular technologies like AWS, PostgreSQL, Redis, and MongoDB. My spare time is spent making sounds with synthesizers. 🎶
 
-I'm currently <span data-availability-badge></span>.
-
 ## Work
 
 - [Siteleaf](http://siteleaf.com) 🍃 Friendly Jekyll site management (_lead backend dev_)
