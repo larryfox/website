@@ -1,13 +1,12 @@
 ---
 title: HipChat with IRC
-date: 2014-11-09 19:00:00 -05:00
+date: 2013-11-09 19:00:00 -05:00
 hidden: true
 ---
 
 *Note: Just use Slack and an IRC client*
 
 At Oak we communicate mostly via HipChat, I also lurk on IRC though and managing both is less than ideal. Enter [BitlBee](http://www.bitlbee.org/main.php/news.r.html), it tunnels IM protocols to IRC, and luckily HipChat supports Jabber ([sort of](http://help.hipchat.com/knowledgebase/articles/64377-xmpp-jabber-support-details)).
-
 
 If not already, install BitlBee with `brew install bitlbee` or by using [their downloads](http://www.bitlbee.org/main.php/download.html). Start the server with `bitlbee -F`, and setup your IRC client by adding the BitlBee server on `localhost:6667`. Join the `&bitlbee` channel and register with the command `register SomePassword`. When connecting to the server in the future you’ll need to identify using `/msg &bitlbee identify SomePassword`.
 
