@@ -7,6 +7,4 @@ tags:
 - '2000'
 ---
 
-a draft
-
-hello world!
+Hello, world!!
