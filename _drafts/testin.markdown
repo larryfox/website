@@ -9,4 +9,4 @@ tags:
 
 a draft
 
-foobar
+hello world
