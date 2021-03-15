@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
-<title>Larry Fox</title>
+<title>{{.Title}}</title>
 <meta content="width=device-width,initial-scale=1" name="viewport">
 
 <style>
@@ -10,17 +10,27 @@
     font-family: georgia, serif;
     line-height: 1.5;
   }
-  h2 {
+  h2, h3, th {
     font-size: 0.875em;
     font-family: -apple-system, sans-serif;
   }
   a { color: #00f; }
+  img { image-rendering: crisp-edges; }
+  td, th {
+    background: #eee;
+    padding: 0.125em 0.5em;
+  }
+  @media screen and (prefers-color-scheme: dark) {
+    body {
+      background-color: #222;
+      color: white;
+    }
+    a { color: #ff0; }
+    td, th { background: #444; }
+  }
 </style>
 
 <body>
-  {{if .Title}}
-  <h2>{{.Title}}</h2>
-  {{end}}
-
   {{.Body}}
 </body>
+

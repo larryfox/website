@@ -1,5 +1,5 @@
 ~~~
-title = "sort and sort_by"
+Title = sort and sort_by
 date = 2014-06-29
 ~~~
 
