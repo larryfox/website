@@ -1,6 +1,4 @@
-~~~
-Title = Larry Fox
-~~~
+## Larry Fox
 
 Software Engineer
 
