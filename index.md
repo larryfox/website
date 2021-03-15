@@ -4,13 +4,13 @@ Software Engineer
 
 ### Currently
 
-- Engineering as [Paste] by [WeTransfer]
+- Engineering at [Paste] by [WeTransfer]
 - Working on a [30 year old Miata]
 
-### Previous
+### Previously
 
 - [Cushion](https://cushionapp.com)
-- [Oak](https://oak.is)
+- Partner at [Oak](https://oak.is)
   - [Siteleaf](https://siteleaf.com)
   - [Symbolset](https://symbolset.com)
   - [CreativeMornings](https://creativemornings.com)
