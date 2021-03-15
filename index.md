@@ -2,12 +2,12 @@
 
 Software Engineer
 
-## Currently
+### Currently
 
 - Engineering as [Paste] by [WeTransfer]
 - Working on a [30 year old Miata]
 
-## Previous
+### Previous
 
 - [Cushion](https://cushionapp.com)
 - [Oak](https://oak.is)
@@ -16,12 +16,11 @@ Software Engineer
   - [CreativeMornings](https://creativemornings.com)
   - [Working Not Working](https://workingnotworking.com)
 
-## Contact
+### Contact
 
 - [Github](https://github.com/larryfox)
 - [Keybase](https://keybase.io/lf)
 
-
 [Paste]: https://paste.bywetransfer.com
 [WeTransfer]: https://wetransfer.com
-[30 year old Miata]: /miata
+[30 year old Miata]: /writing/miata
