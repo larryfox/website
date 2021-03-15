@@ -12,7 +12,7 @@ Software Engineer
 ## Previous
 
 - [Cushion](https://cushionapp.com)
-- [Oak][oak]
+- [Oak](https://oak.is)
   - [Siteleaf](https://siteleaf.com)
   - [Symbolset](https://symbolset.com)
   - [CreativeMornings](https://creativemornings.com)

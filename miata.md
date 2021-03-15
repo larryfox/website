@@ -1,6 +1,5 @@
 ~~~
 Title = Miata
-Template = titleless.html
 ~~~
 
 ![Miata]
