@@ -24,4 +24,4 @@ Software Engineer
 
 [Paste]: https://paste.bywetransfer.com
 [WeTransfer]: https://wetransfer.com
-[30 year old Miata]: /writing/miata
+[30 year old Miata]: /writing/miata/
