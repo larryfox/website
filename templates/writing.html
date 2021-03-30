@@ -1,8 +1,6 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
 <title>{{if .Title}}{{.Title}}{{else}}Larry Fox{{end}}</title>
 <meta content="width=device-width,initial-scale=1" name="viewport">
-
 <style>
   body {
     max-width: 38rem;
@@ -29,12 +27,7 @@
     td, th { background: #444; }
   }
 </style>
-
 <body>
-{{if .Title}}
-  <h2>{{.Title}}</h2>
-{{end}}
-
-  {{.Body}}
+{{if .Title}}<h2>{{.Title}}</h2>{{end}}
+{{.Body}}
 </body>
-
