@@ -19,7 +19,6 @@ Software Engineer
 ### Contact
 
 - [Github](https://github.com/larryfox)
-- [Keybase](https://keybase.io/lf)
 - [Twitter](https://twitter.com/_larryfox)
 
 [Paste]: https://paste.bywetransfer.com
