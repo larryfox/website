@@ -4,7 +4,7 @@ Software Engineer
 
 ### Currently
 
-- Engineering at [WeTransfer]
+- Senior Engineer at [WeTransfer]
 - Working on a [30 year old Miata]
 
 ### Previously
