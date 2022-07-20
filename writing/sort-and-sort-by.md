@@ -4,7 +4,7 @@ Template = writing.html
 date = 2014-06-29
 ~~~
 
-A quick brief of Ruby’s sorting algorithm.
+A quick brief of Ruby’s sorting algorithms.
 
 ~~~ruby
 @count = 0
