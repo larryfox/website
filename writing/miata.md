@@ -90,6 +90,36 @@ and youtube are an excelent resource for most things.
   <tr>
     <td>New tires: Falken Azenis RT660</td>
   </tr>
+
+  <tr>
+    <th rowspan="3">April 2022</th>
+    <td>Rebuilt brake calipers</td>
+  </tr>
+  <tr>
+    <td>Replaced brake pads & rotors</td>
+  </tr>
+  <tr>
+    <td>Brake fluid changed</td>
+  </tr>
+
+  <tr>
+    <th rowspan="3">May 2022</th>
+    <td>
+      Replaced all components of cooling system
+      <ul>
+        <li>Aluminum Radiator</li>
+        <li>Aluminum overflow tank</li>
+        <li>Cast water pump</li>
+        <li>OEM coolant hoses</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Replaced timing belt and accessory belts</td>
+  </tr>
+  <tr>
+    <td>Replaced engine mounts</td>
+  </tr>
 </table>
 
 
