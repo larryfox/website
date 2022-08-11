@@ -15,30 +15,58 @@ and youtube are an excelent resource for most things.
   </tr>
 
   <tr>
-    <th rowspan="2">March 2020</th>
-    <td>Drove 1000+ miles from FL to NY</td>
+    <th rowspan="3">May 2022</th>
+    <td>
+      Replaced all components of cooling system
+      <ul>
+        <li>Aluminum Radiator</li>
+        <li>Aluminum overflow tank</li>
+        <li>Cast water pump</li>
+        <li>OEM coolant hoses</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td>
-      Replaced headlights after barely being able to see on said drive
-    </td>
+    <td>Replaced timing belt and accessory belts</td>
+  </tr>
+  <tr>
+    <td>Replaced engine mounts</td>
   </tr>
 
   <tr>
-    <th rowspan="5">April 2020</th>
-    <td>Oil changed</td>
+    <th rowspan="3">April 2022</th>
+    <td>Rebuilt brake calipers</td>
   </tr>
   <tr>
-    <td>Trans and diff fluid changed</td>
+    <td>Replaced brake pads & rotors</td>
   </tr>
   <tr>
-    <td>Oil, air, and fuel filters replaced</td>
+    <td>Brake fluid changed</td>
+  </tr>
+
+  <tr>
+    <th rowspan="2">August 2020</th>
+    <td>New wheels: 14" Enkei RPF1</td>
   </tr>
   <tr>
-    <td>Valve cover gasket replaced</td>
+    <td>New tires: Falken Azenis RT660</td>
+  </tr>
+
+  <tr>
+    <th rowspan="5">July 2020</th>
+    <td>After market suspension installed</td>
   </tr>
   <tr>
-    <td>Spark plugs and wires replaced</td>
+    <td>After market swaybars installed</td>
+  </tr>
+  <tr>
+    <td>Brake lines replaced with stainless steel braided lines</td>
+  </tr>
+  <tr>
+    <td>Brake fluid changed</td>
+  </tr>
+  <tr>
+    <td>Power steering fluid changed</td>
   </tr>
 
   <tr>
@@ -67,58 +95,30 @@ and youtube are an excelent resource for most things.
   </tr>
 
   <tr>
-    <th rowspan="5">July 2020</th>
-    <td>After market suspension installed</td>
+    <th rowspan="5">April 2020</th>
+    <td>Oil changed</td>
   </tr>
   <tr>
-    <td>After market swaybars installed</td>
+    <td>Trans and diff fluid changed</td>
   </tr>
   <tr>
-    <td>Brake lines replaced with stainless steel braided lines</td>
+    <td>Oil, air, and fuel filters replaced</td>
   </tr>
   <tr>
-    <td>Brake fluid changed</td>
+    <td>Valve cover gasket replaced</td>
   </tr>
   <tr>
-    <td>Power steering fluid changed</td>
-  </tr>
-
-  <tr>
-    <th rowspan="2">August 2020</th>
-    <td>New wheels: 14" Enkei RPF1</td>
-  </tr>
-  <tr>
-    <td>New tires: Falken Azenis RT660</td>
+    <td>Spark plugs and wires replaced</td>
   </tr>
 
   <tr>
-    <th rowspan="3">April 2022</th>
-    <td>Rebuilt brake calipers</td>
+    <th rowspan="2">March 2020</th>
+    <td>Drove 1000+ miles from FL to NY</td>
   </tr>
   <tr>
-    <td>Replaced brake pads & rotors</td>
-  </tr>
-  <tr>
-    <td>Brake fluid changed</td>
-  </tr>
-
-  <tr>
-    <th rowspan="3">May 2022</th>
     <td>
-      Replaced all components of cooling system
-      <ul>
-        <li>Aluminum Radiator</li>
-        <li>Aluminum overflow tank</li>
-        <li>Cast water pump</li>
-        <li>OEM coolant hoses</li>
-      </ul>
+      Replaced headlights after barely being able to see on said drive
     </td>
-  </tr>
-  <tr>
-    <td>Replaced timing belt and accessory belts</td>
-  </tr>
-  <tr>
-    <td>Replaced engine mounts</td>
   </tr>
 </table>
 
