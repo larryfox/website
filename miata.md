@@ -4,7 +4,7 @@ Title = Miata
 
 ![Miata]
 
-My project car, a 1990 Mazda Miata.
+## My project car, a 1990 Mazda Miata
 
 I might eventually write up some guides, but likely wont. :) [Miata.net]
 and youtube are an excelent resource for most things.
@@ -15,12 +15,29 @@ and youtube are an excelent resource for most things.
   </tr>
 
   <tr>
+    <th rowspan="5">May 2023</th>
+    <td>Installed 863 polyurethane bushing kit by Supermiata</td>
+  </tr>
+  <tr>
+    <td>Replaced lower and upper ball joints</td>
+  </tr>
+  <tr>
+    <td>Powder coated control arms</td>
+  </tr>
+  <tr>
+    <td>Depowered and <a href="/notes/miata-steering-rack-bearings/">rebuilt steering rack</a></td>
+  </tr>
+  <tr>
+    <td>Installed AWR swaybar mounts</td>
+  </tr>
+
+  <tr>
     <th rowspan="3">May 2022</th>
     <td>
       Replaced all components of cooling system
       <ul>
-        <li>Aluminum Radiator</li>
-        <li>Aluminum overflow tank</li>
+        <li>Koyorad aluminum Radiator</li>
+        <li>Moroso aluminum overflow tank</li>
         <li>Cast water pump</li>
         <li>OEM coolant hoses</li>
       </ul>
@@ -30,18 +47,15 @@ and youtube are an excelent resource for most things.
     <td>Replaced timing belt and accessory belts</td>
   </tr>
   <tr>
-    <td>Replaced engine mounts</td>
+    <td>Installed Blackbird Fabworx engine mounts</td>
   </tr>
 
   <tr>
-    <th rowspan="3">April 2022</th>
+    <th rowspan="2">April 2022</th>
     <td>Rebuilt brake calipers</td>
   </tr>
   <tr>
     <td>Replaced brake pads & rotors</td>
-  </tr>
-  <tr>
-    <td>Brake fluid changed</td>
   </tr>
 
   <tr>
@@ -54,10 +68,10 @@ and youtube are an excelent resource for most things.
 
   <tr>
     <th rowspan="5">July 2020</th>
-    <td>After market suspension installed</td>
+    <td>Installed Supermiata XIDA coilovers</td>
   </tr>
   <tr>
-    <td>After market swaybars installed</td>
+    <td>Installed Racing Beat and Supermiata swaybars</td>
   </tr>
   <tr>
     <td>Brake lines replaced with stainless steel braided lines</td>

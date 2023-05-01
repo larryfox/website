@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+{{template "head.html" .}}
+<body>
+<article>
+{{if .Title}}
+<header>
+  {{if .Date}}<time datetime="{{.Date.Format "2006-01-02"}}">{{.Date.Format "2006-01-02"}}</time>{{end}}
+  <h1>{{.Title}}</h1>
+</header>
+{{end}}
+<section>{{.Body}}</section>
+</article>
+<footer>
+  <hr>
+  return <a href="/">home</a>
+</footer>
+</body>

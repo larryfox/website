@@ -1,10 +1,10 @@
-## Larry Fox
+# Larry Fox is a senior software engineer at WeTransfer
 
-Software Engineer
+---
 
 ### Currently
 
-- Senior Engineer at [WeTransfer]
+- [WeTransfer]
 - Working on a [30 year old Miata]
 
 ### Previously
@@ -16,11 +16,15 @@ Software Engineer
   - [CreativeMornings](https://creativemornings.com)
   - [Working Not Working](https://workingnotworking.com)
 
-### Contact
+### Notes
+- [NA Miata steering rack bearings]
+
+### Elsewhere
 
 - [Github](https://github.com/larryfox)
 - [Twitter](https://twitter.com/_larryfox)
 
-[Paste]: https://paste.bywetransfer.com
-[WeTransfer]: https://wetransfer.com
-[30 year old Miata]: /writing/miata/
+
+[WeTransfer]: https://wetransfer.com/explore
+[30 year old Miata]: /miata/
+[NA Miata steering rack bearings]: /notes/miata-steering-rack-bearings/
