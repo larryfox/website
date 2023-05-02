@@ -10,7 +10,7 @@ If you're depowering or rebuilding the power steering rack in your NA Miata and 
 - Lower bearing at the bottom of the pinion shaft: [16001]
 - Middle bearing inside the pinion shaft: Unsure, mine felt fine after regreasing
 
-For the upper bearing an 11/16th socket works great to press it out of the seal housing. You'll likely damage the rubber seal doing this but you can find a replacement in a [rack and pinon seal kit]. I used a sealed bearing ([6804DD]) for additional protection from the elements, but it's open from factory.
+For the upper bearing an <sup>11</sup>&frasl;<sub>16</sub> socket works great to press it out of the seal housing. You'll likely damage the rubber seal doing this but you can find a replacement in a [rack and pinon seal kit]. I used a sealed bearing ([6804DD]) for additional protection from the elements, but it's open from factory.
 
 The lower bearing is not press fit and should come out with minimal effort.
 
