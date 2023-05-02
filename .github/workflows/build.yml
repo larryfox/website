@@ -11,7 +11,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Etisbew build
-        uses: larryfox/etisbew@v0.0.1
+        uses: larryfox/etisbew@v0.0.2
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v1
         with:
