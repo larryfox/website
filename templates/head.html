@@ -1,6 +1,7 @@
 <meta charset="utf-8">
 <title>{{if .Title}}{{.Title}}{{else}}Larry Fox{{end}}</title>
 <meta content="width=device-width,initial-scale=1" name="viewport">
+<meta name="color-scheme" content="dark light">
 <style>
   body {
     max-width: 38rem;
@@ -20,16 +21,13 @@
   img { image-rendering: crisp-edges; }
   header h1 { margin-top: 0; }
   time { color: gray; }
+  table, td, th { border: solid gray; }
+  table { border-width: 0 1px 1px 0; }
   td, th {
-    background: #eee;
+    border-width: 1px 0 0 1px;
     padding: 0.125em 0.5em;
   }
   @media screen and (prefers-color-scheme: dark) {
-    body {
-      background-color: #222;
-      color: white;
-    }
     a { color: #ff0; }
-    td, th { background: #444; }
   }
 </style>
