@@ -1,6 +1,4 @@
-<!DOCTYPE html>
 {{template "head.html" .}}
-<body>
 <article>
 {{if .Title}}
 <header>
@@ -10,8 +8,4 @@
 {{end}}
 <section>{{.Body}}</section>
 </article>
-<footer>
-  <hr>
-  return <a href="/">home</a>
-</footer>
-</body>
+{{template "footer.html" .}}

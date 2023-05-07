@@ -1,19 +1,11 @@
-<header>
-
 # Larry Fox is a senior software engineer at WeTransfer
 
 ---
-
-</header>
-
-<section>
 
 ### Currently
 
 - [WeTransfer]
 - Working on a [30 year old Miata]
-</section>
-<section>
 
 ### Previously
 
@@ -23,19 +15,14 @@
   - [Symbolset](https://symbolset.com)
   - [CreativeMornings](https://creativemornings.com)
   - [Working Not Working](https://workingnotworking.com)
-</section>
-<section>
 
 ### Notes
 - [NA Miata steering rack bearings]
-</section>
-<section>
 
 ### Elsewhere
 
 - [Github](https://github.com/larryfox)
 - [Twitter](https://twitter.com/_larryfox)
-</section>
 
 
 [WeTransfer]: https://wetransfer.com/explore
