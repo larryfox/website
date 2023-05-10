@@ -1,2 +1,5 @@
 {{template "head.html" .}}
 {{.Body}}
+{{if ne .Title ""}}
+{{template "footer.html" .}}
+{{end}}
