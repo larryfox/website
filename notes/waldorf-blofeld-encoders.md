@@ -1,5 +1,5 @@
 ~~~
-Title = Waldorf Blofeld Encoder Replacement
+Title = Waldorf Blofeld Encoders
 Template = notes.html
 Date = 2023-05-01T00:00:00Z
 ~~~
@@ -18,9 +18,9 @@ The encoders on the Waldorf Blofeld have a long history of going bad. [Waldorf] 
 - 6mm D shaft
 - 20mm shaft length
 
-There's also one 10k linear potentiometer for the volumn, same shaft specs as above, which I did not need to replace but also seems trickier to source. I believe this would be the right part number; [11VR2X20F2N103B1]
+There's also the 10k linear potentiometer for volume, same shaft specs as above but a 12mm body. Bourns [PTV111-3420A-B103] should be a suitable replacement.
 
 [Waldorf]: https://waldorfmusic.com/produkt/blofeld-encoder-set/
 [PEC16-4020F-N0024]: https://www.mouser.com/ProductDetail/652-PEC16-4020FN0024
 [PEC16-4220F-N0024]: https://www.mouser.com/ProductDetail/652-PEC16-4220FN0024
-[11VR2X20F2N103B1]: https://www.mouser.com/ProductDetail/774-11VR2X20F2N103B1
+[PTV111-3420A-B103]: https://www.mouser.com/ProductDetail/652-PTV111-3420AB103

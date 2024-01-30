@@ -18,6 +18,7 @@
 
 ### Notes
 - [NA Miata steering rack bearings]
+- [Waldorf Blofeld encoders]
 
 ### Elsewhere
 
@@ -28,3 +29,4 @@
 [WeTransfer]: https://wetransfer.com/explore
 [30 year old Miata]: /miata/
 [NA Miata steering rack bearings]: /notes/miata-steering-rack-bearings/
+[Waldorf Blofeld encoders]: /notes/waldorf-blofeld-encoders/
