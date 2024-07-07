@@ -1,7 +1,7 @@
 ~~~
 Title = Waldorf Blofeld Encoders
 Template = notes.html
-Date = 2023-05-01T00:00:00Z
+Date = 2024-01-28T00:00:00Z
 ~~~
 
 The encoders on the Waldorf Blofeld have a long history of going bad. [Waldorf] sells a kit to replace them but were out of stock at the time I needed them. They helpfully list the specs but in the event they stop providing them I've copied them here with the part numbers I ordered from Mouser.
