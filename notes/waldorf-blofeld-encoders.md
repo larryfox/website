@@ -20,7 +20,7 @@ The encoders on the Waldorf Blofeld have a long history of going bad. [Waldorf] 
 
 There's also the 10k linear potentiometer for volume, same shaft specs as above but a 12mm body. Bourns [PTV111-3420A-B103] should be a suitable replacement.
 
-[Waldorf]: https://waldorfmusic.com/produkt/blofeld-encoder-set/
+[Waldorf]: https://repair-shop.waldorfmusic.com/produkt/blofeld-encoder-set/
 [PEC16-4020F-N0024]: https://www.mouser.com/ProductDetail/652-PEC16-4020FN0024
 [PEC16-4220F-N0024]: https://www.mouser.com/ProductDetail/652-PEC16-4220FN0024
 [PTV111-3420A-B103]: https://www.mouser.com/ProductDetail/652-PTV111-3420AB103
