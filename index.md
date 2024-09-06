@@ -23,7 +23,6 @@
 ### Elsewhere
 
 - [Github](https://github.com/larryfox)
-- [Twitter](https://twitter.com/_larryfox)
 
 
 [WeTransfer]: https://wetransfer.com/explore
