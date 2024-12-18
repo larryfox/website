@@ -1,14 +1,14 @@
-# Larry Fox is a senior software engineer at WeTransfer
+# Larry Fox is a senior software engineer
 
 ---
 
 ### Currently
 
-- [WeTransfer]
 - Working on a [30 year old Miata]
 
 ### Previously
 
+- [WeTransfer]
 - [Cushion](https://cushionapp.com)
 - Partner at [Oak](https://oak.is)
   - [Siteleaf](https://siteleaf.com)
